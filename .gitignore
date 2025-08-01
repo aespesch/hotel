@@ -1,0 +1,77 @@
+# Python cache files
+# These are created automatically by Python and shouldn't be in version control
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+# If you create a Python virtual environment, it shouldn't be uploaded
+streamlit/
+venv/
+env/
+ENV/
+.env
+
+# Streamlit
+# Streamlit creates cache and config files that are personal to your machine
+.streamlit/
+
+# IDE specific files
+# Different code editors create their own config files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+# Operating systems create hidden files that we don't need
+.DS_Store
+Thumbs.db
+
+# Data files with sensitive information
+# Never upload files containing real personal data
+data/confirmations/
+*.log
+*.bak
+
+# Environment variables file
+# This is where you'll store your real PIX key and passwords
+.env
+.env.local
+.env.production
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Documentation build files
+docs/_build/
+
+# Test coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.backup
+*~
+
+# Secrets and credentials
+# Any file that might contain sensitive information
+secrets.toml
+credentials.json
+*.pem
+*.key

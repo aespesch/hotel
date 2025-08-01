@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+pandas>=2.2.0
+pillow>=10.4.0
+qrcode[pil]>=8.0
+crcmod>=1.7
+python-dotenv>=1.0.0

@@ -1,0 +1,2 @@
+reservation_id,timestamp,participant_name,participant_id,total_amount,observations,payment_status,ibis_sgl,ibis_dbl,mercure_sgl,mercure_dbl
+c00d6e18,2025-07-31 21:06:51,José da Silva Sauro,0,1000,,pending,2,0,0,0
