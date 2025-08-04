@@ -1,2 +1,4 @@
-reservation_id,timestamp,participant_name,participant_id,total_amount,observations,payment_status,ibis_sgl,ibis_dbl,mercure_sgl,mercure_dbl
-c00d6e18,2025-07-31 21:06:51,José da Silva Sauro,0,1000,,pending,2,0,0,0
+reservation_id,timestamp,participant_name,participant_id,total_amount,observations,payment_status,ibis_sgl,ibis_dbl,mercure_sgl,mercure_dbl,room_details
+c00d6e18,2025-07-31 21:06:51,José da Silva Sauro,0,1000,,pending,2.0,0.0,0.0,0.0,
+2b672849,2025-08-04 12:45:01,José da Silva Sauro,0,1000,Isto é um teste.,pending,,,,,ibis SGL: 2
+35bdfad7,2025-08-04 12:50:54,José da Silva Sauro,0,500,teste,pending,,,,,ibis SGL: 1

@@ -22,8 +22,8 @@ set "REMOTE_COMMIT="
 set "continue="
 
 REM Configuracoes do ambiente
-set "REPO_DIR=D:\USER\Toni\ITA90\Python\streamlit\party-registration-system"
-set "VENV_PATH=.\streamlit\Scripts\activate.bat"
+set "REPO_DIR=D:\USER\Toni\ITA90\Python\streamlit\hotel"
+set "VENV_PATH=..\party-registration-system\streamlit\Scripts\activate.bat"
 set "TARGET_BRANCH=main"
 
 echo =============================================
@@ -241,7 +241,7 @@ echo.
 echo ==================================================
 
 echo.
-echo VERIFICACAO MANUAL: https://github.com/aespesch/party-registration-system
+echo VERIFICACAO MANUAL: https://github.com/aespesch/hotel
 echo Pressione Ctrl+F5 no browser para refresh completo
 echo.
 
