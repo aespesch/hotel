@@ -1,6 +1,6 @@
 Seu objetivo é criar um aplicativo python para streamlit capaz de coletar dados de reservas de hotel.
 
-O aplicativo será executado em http://turma90_hotel.streamlit.io e o código deve ser criado pela modificação dos arquivos app.py e config.py em anexo, os quais são usados para pagar um almoço comemorativo. Os scripts fornecidos são usados em http://turma90.streamlit.io.
+O aplicativo será executado em http://turma90hotel.streamlit.app e o código deve ser criado pela modificação dos arquivos app.py e config.py em anexo, os quais são usados para pagar um almoço comemorativo. Os scripts fornecidos são usados em http://turma90.streamlit.app.
 
 De forma análoga ao aplicativo em anexo, o aplicativo que você vai criar começa confirmando que o usuário tem seu nome cadastrado no arquivo participants.csv o qual possui os campos e dados exemplificados abaixo:
 full_name,id,participants

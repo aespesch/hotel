@@ -365,7 +365,7 @@ def show_room_selection():
     
     **Informações importantes:**
     - Check-In: Sexta-Feira 28NOV2025 14:00
-    - Check-Out: Sábado 30NOV2025 14:00
+    - Check-Out: Domingo 30NOV2025 14:00
     - Café da manhã incluído
     - Estacionamento não incluído
     - Se precisar de algo diferente, use o campo observações

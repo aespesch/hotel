@@ -1,0 +1,4 @@
+reservation_id,timestamp,participant_name,participant_id,room_details,total_amount,observations,payment_status
+7120652e,2025-08-04 16:05:48,José da Silva Sauro,0,ibis SGL: 1,500,Executado no streamlit,pending
+8ce5053d,2025-08-04 19:03:51,José Antonio Francisco,62,mercure SGL: 1,705,,pending
+ab8f4667,2025-08-04 21:31:25,Gilvan Castro de Souza,49,ibis SGL: 1,500,,pending
